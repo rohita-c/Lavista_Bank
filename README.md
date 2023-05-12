@@ -1,2 +1,3 @@
 # Lavista_Bank
 Lavista Bank is a bank management system based application used to manage a person’s account in a bank.
+The aim of our project is creating one such system in the form of a relational database with the help of SQL at the back end, while using a Python user friendly interface to make it look presentable at the client side. Our application allows some of the various services offered by banks such as: creation of a new account, modifying an existing account and also its closure. It also displays different reports pertaining to account holder details and balance enquiry. We aim to develop a software for solving financial applications of a customer in the banking environment.
